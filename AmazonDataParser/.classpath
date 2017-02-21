@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/apache-commons.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/colt.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/hadoop-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/hadoop-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/hadoop-mapred-0.21.0.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/hadoop-mapreduce-client-core-0.23.1.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/hadoop-mapreduce-client-jobclient-2.1.0-beta-test-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/la4j-0.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/logback-classic-1.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/logback-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/slf4j.jar"/>
+	<classpathentry kind="lib" path="E:/Semester 3 - UH/Cloud Computing/external_jars/ujmp-complete-0.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
