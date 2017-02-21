@@ -174,7 +174,6 @@ public class AmazonParserJobs extends Configured implements Tool{
 		}
 	}
 
-
 	public static void main(String args[]) throws Exception {
 		int res = ToolRunner.run(new Count(), args);
 		System.exit(res);
@@ -265,5 +264,4 @@ public class AmazonParserJobs extends Configured implements Tool{
 
 		return job3.waitForCompletion(true) ? 0 : 1;
 	}
-
 }
