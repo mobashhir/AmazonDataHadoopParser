@@ -20,7 +20,6 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
-
 public class AmazonParserJobs extends Configured implements Tool{
 
 	ArrayList<UserInfo> userInfo = new ArrayList<>();
