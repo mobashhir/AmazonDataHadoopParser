@@ -67,7 +67,6 @@ public class AmazonParserJobs extends Configured implements Tool{
 				}
 				productIds.add(key.toString()+value.getUserId().toString());
 			}
-
 		}
 	}
 
