@@ -62,7 +62,6 @@ public class AmazonParserJobs extends Configured implements Tool{
 				{	
 					if(!value.getUserId().toString().equals("unknown"))
 						context.write(key,  value);
-
 				}
 				productIds.add(key.toString()+value.getUserId().toString());
 			}
